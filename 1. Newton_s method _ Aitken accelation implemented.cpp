@@ -1,8 +1,8 @@
 //
 //
 // Newton's method & Aitken accelation implemented for finding multiple root
-// Chen Sheng Wen C24995059
-// Sebtember 25,2013
+// Chen Sheng Wen
+// June 20,2022
 //
 #include <cmath>
 #include <iostream>

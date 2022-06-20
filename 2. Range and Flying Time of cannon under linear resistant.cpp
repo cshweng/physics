@@ -1,8 +1,8 @@
 //
 //
 // Range and Flying Time of cannon under linear resistant
-// Chen Sheng Wen C24995059
-// October 2,2013
+// Chen Sheng Wen
+// June 20,2022
 //
 #include <cmath>
 #include <cstdio>

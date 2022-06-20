@@ -1,7 +1,7 @@
 //*******************************************
 //intergration calss and function class test
-//Kuo,Chun Te,C24992109,
-//2013.10.23
+//CHEN SHENG WEN
+//2022 06 20
 //*******************************************
 #include <cmath>
 using namespace std;
